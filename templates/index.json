@@ -1,0 +1,509 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainability",
+            "heading_size": "medium"
+          }
+        },
+        "51fb40c1-943c-4131-93dc-30b4f8866eb9": {
+          "type": "text",
+          "settings": {
+            "text": "Babyletto is committed to reducing our impact by making meaningful improvements to our products and operations. Our brand was founded on the belief that modern nursery furniture should be well designed, long-lasting, uses sustainable materials and is safe for the family home. However, we recognized that we need to do more!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "51fb40c1-943c-4131-93dc-30b4f8866eb9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2.jpg",
+        "image_2": "shopify:\/\/shop_images\/green_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>In 2020 we made sustainability a priority by investing in the use of recycled fabrics, increasing the number of GREENGUARD Gold Certificate products, and ensuring shipping from our online sales are carbon conscious.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "GREENGUARDGOLD CERTIFICATE",
+            "text": "<p><strong>95%<\/strong><\/p><p>Of Products GREENGUARD<br\/>Gold Certified by end 2021<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "REPREVE RECYCLED POLYESTER",
+            "text": "<p><strong>75%<\/strong><\/p><p>Of seating using eco-performance<br\/>fabric made from 30% REPREVE<br\/>recycled polyester<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "FSC CERTIFIED WOOD",
+            "text": "<p><strong>100%<\/strong><\/p><p>Of seating using<br\/>FSC Certified wood<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "48e6006e-d4e1-4047-b3e3-cf07aa4d0432": {
+          "type": "column",
+          "settings": {
+            "title": "CO2 EMISIONS OFFSET",
+            "text": "<p><strong>100%<\/strong><\/p><p>Of CO2 emissions offset from<br\/>babyletto.com order shipping<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "48e6006e-d4e1-4047-b3e3-cf07aa4d0432"
+      ],
+      "settings": {
+        "title": "Our Goals",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16426996525e21d5ee": {
+      "type": "rich-text",
+      "blocks": {
+        "1642699652263716b5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ICON HERE",
+            "heading_size": "h2"
+          }
+        },
+        "1642699652263716b5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>GREENGUARD GOLD CERTIFIED<\/strong><\/p><p><strong>Every babyletto crib, dresser and mattress is<br\/>GREENGUARD Gold Certificate to ensure the indoor<br\/>air your baby and family breathes is cleaner<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1642699652263716b5-0",
+        "1642699652263716b5-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
+    "1642699656c4a738cf": {
+      "type": "image-with-text",
+      "blocks": {
+        "16426996558f5883fc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Products that have achieved GREENGUARD Certification are<br\/>scientifically proven to meet some of the world's most rigorous,<br\/>third-party chemical emissions standards, helping to reduce indoor air<br\/>pollution and the risk of chemical exposures, while aiding in the creation<br\/>of healthier indoor environments.<br\/><br\/>GREENGUARD Gold Certification is a voluntary third-party program<br\/>that test for over 10,00 chemicals and Volatile Organic Compounds.<br\/>Products certified under ths program bear the GREENGUARD Gold label.<br\/><br\/>Indoor air can be 2-5 times more polluted than outdoor air due to Volatile<br\/>Organic Compounds (VOC's) such as formaldehyde which is why it's so<br\/>important for a child's development to find products that are certified.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16426996558f5883fc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "DISCOVER OUR GREENGUARD GOLD COLLECTIONS",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16426996558f5883fc-1",
+        "16426996558f5883fc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "1642699847b4504140": {
+      "type": "rich-text",
+      "blocks": {
+        "16426998479bec0e8b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ICON HERE",
+            "heading_size": "h2"
+          }
+        },
+        "16426998479bec0e8b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>RECYCLED POLYESTER<\/strong><\/p><p><strong>Our sustainable eco-performance seating collection uses<br\/>REPREVE polyester, which is made from recycled plastic<br\/>water bottles. By the end of 2021, we will have kept over<br\/>1 million plastic bottles out of landfills.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16426998479bec0e8b-0",
+        "16426998479bec0e8b-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
+    "1642699917ee90bd7e": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642699917a952f1c4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every rocker, glider and recliner sold from our eco-performance seating<br\/>range diverts atleast 35 plastic bottles away from landfills.<br\/><br\/>Our Eco-Performance fabric uses up to 30% REPREVE® recyled yarn made<br\/>from recycled plastic bottles. The REPREVE® recycled yarn is weaved with<br\/>CULP's performance polyester to create an innovative fabric that is durable,<br\/>stain resistant, water repellent and sustainably designed.<br\/><br\/>Billions of water bottles go into landfills every year! We want to help divert<br\/>plastics from landfills and create a more sustainable future for everyone.<br\/>As opposed to virgin polyester, REPREVE polyester conserves water and<br\/>energy while emitting fewer greenhouse gasses.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1642699917a952f1c4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLOR OUR ECO-PERFORMANCE SEATING COLLETION",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642699917a952f1c4-1",
+        "1642699917a952f1c4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "1642701662c8c0ae23": {
+      "type": "rich-text",
+      "blocks": {
+        "164270166263f270da-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ICON HERE",
+            "heading_size": "h2"
+          }
+        },
+        "164270166263f270da-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>FSC CERTIFIED SEATING<\/strong><\/p><p><strong>The Forest Stewardship Council® (FSC®) is a global,<br\/>not-for-profit organization dedicated to the promotion<br\/>of responsible forest management worldwide.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164270166263f270da-0",
+        "164270166263f270da-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
+    "1642701666f8eabae1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642701666b984a57f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The FSC® label means that wood has been<br\/>harvested to benefit communities, wildlife,<br\/>and the environment.<br\/><br\/>Only wood from FSC®-certified forests is used<br\/>in babyletto seating frames.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1642701666b984a57f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE OUR RANGE OF FSC CERTIFIED SEATING",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642701666b984a57f-1",
+        "1642701666b984a57f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "164270180064e7c2f0": {
+      "type": "rich-text",
+      "blocks": {
+        "16427018005b66f784-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ICON HERE",
+            "heading_size": "h2"
+          }
+        },
+        "16427018005b66f784-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>CARBON CONSCIOUS SHIPPING<\/strong><\/p><p><strong>1,700 tree's planted and counting! Carbon emissions<br\/>from every Babyletto online order are offset through<br\/>our shipping partner, Freight Club.<\/strong><\/p><p>Freight Club are planting trees with One Tree Planted to reduce future carbon<br\/>emissions, as these trees mature, they will naturally filter carbon dioxed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16427018005b66f784-0",
+        "16427018005b66f784-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
+    "1642701803e5d41371": {
+      "type": "image-with-text",
+      "blocks": {
+        "16427018031effdeb3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What Does carbon offsetting mean?<\/p><p>\"Carbon offsetting\" means balancing the CO2 that is emitted during<br\/>the shipping with a positive environmental impact that<br\/>absorbs the same amount of carbon emitted.<\/p><p>Why plant trees?<\/p><p>Trees help cool the planet by filtering harmful greenhouse gases like<br\/>carbon dioxide and releasing oxygen back into the atmosphere. A<br\/>mature tree absorbs carbon dioxide at a rate of 48 pounds per year.<br\/>In one year, an acre of forest can absorb twice the CO2 produced by<br\/>the average car's annual mileage. 1,700 tree's = 37 tons of carbon<br\/>dioxide saved from polluting the atmosphere.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16427018031effdeb3-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Carbon_Offsetting.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "1642702097edbc679e": {
+      "type": "multicolumn",
+      "blocks": {
+        "1642702097b15aaa60-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1642702097b15aaa60-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1step.png",
+            "title": "1. Shop",
+            "text": "<p>Shop online at Babyletto<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1642702097b15aaa60-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642702097b15aaa60-0",
+        "1642702097b15aaa60-1",
+        "1642702097b15aaa60-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1642702392195f2adb": {
+      "type": "multicolumn",
+      "blocks": {
+        "16427023928fcacae3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4step.png",
+            "title": "4. CO2 Offset",
+            "text": "<p>Your Delivery emissions are offset by<br\/>planting trees in the U.S with One Tree<br\/>Planted. <span style=\"text-decoration:underline\">Learn More<\/span><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16427023928fcacae3-1": {
+          "type": "column",
+          "settings": {
+            "title": "HOW",
+            "text": "<p>It Works<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16427023928fcacae3-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2step.png",
+            "title": "2 . Shop",
+            "text": "<p>Your deliver ships with our shipping<br\/>partner FreightClub<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16427023928fcacae3-0",
+        "16427023928fcacae3-1",
+        "16427023928fcacae3-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "164270279750f55a00": {
+      "type": "multicolumn",
+      "blocks": {
+        "1642702797dafae594-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1642702797dafae594-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3step.png",
+            "title": "3. Calculate",
+            "text": "<p>FreightClub calculates how much CO2<br\/>is emitted in transport and how many trees<br\/>to plant to offset these emissions<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1642702797dafae594-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642702797dafae594-0",
+        "1642702797dafae594-1",
+        "1642702797dafae594-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "multi_column",
+    "16426996525e21d5ee",
+    "1642699656c4a738cf",
+    "1642699847b4504140",
+    "1642699917ee90bd7e",
+    "1642701662c8c0ae23",
+    "1642701666f8eabae1",
+    "164270180064e7c2f0",
+    "1642701803e5d41371",
+    "1642702097edbc679e",
+    "1642702392195f2adb",
+    "164270279750f55a00"
+  ]
+}
